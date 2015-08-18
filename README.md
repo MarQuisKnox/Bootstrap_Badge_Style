@@ -1,2 +1,2 @@
-# Bootstrap_Badge_Style
+# Bootstrap Badge Style
 Styling for Bootstrap Badges
